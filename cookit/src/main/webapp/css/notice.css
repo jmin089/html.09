@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /*주석 : content영역 - notice*/
-#sect{height: 2000px;}
+#sect{height: 100%;}
 #tit{text-align: left; border-bottom:4px solid #202020; padding-bottom:36px;}
 .f_search{margin-top:56px; width: 1180px; height:180px;}
 .f_search h2{font-size: 22px; font-weight: 700; color: #101010;}
@@ -12,7 +12,7 @@
 .btn_srch {display: inline-block; width: 32px; height: 32px; background: url('../images/ico_set2.png') -600px -150px no-repeat;
 	background-size: 800px 800px; border: 0; position: absolute; right: 18px; top:30%; cursor: pointer;}
 .notice_conts{width: 1180px; height: 1350px; margin-top:62px;}
-.tb_row{width: 1180px; height: 1325px; box-sizing: border-box; border-top:2px solid #202020; border-bottom:2px solid #202020;}
+.tb_row{width: 1180px; box-sizing: border-box; border-top:2px solid #202020; border-bottom:2px solid #202020;}
 .tb_row table {width: 1180px; border-collapse:collapse; font-size: 15px; font-weight: 400; color: #606060; letter-spacing: -0.5px;}
 .tb_row th,td{border-bottom: 1px solid #E0E0E0; text-align: center; height: 63px; box-sizing: border-box; padding: 20px 24px;}
 .tb_row th{background: #F2F2F2; border-bottom:2px solid #202020;}
